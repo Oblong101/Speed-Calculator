@@ -1,5 +1,3 @@
-#This is a small progrm used to calculate the speed of an object
-
 distance = float(input("How far did the object travel in metres(m)? "))
 time = float(input("How long was the object traveling for in seconds(s)? "))
 
